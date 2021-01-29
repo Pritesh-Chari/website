@@ -1,3 +1,3 @@
-docker pull training/webapp
+FROM hshar/webapp
 ADD . /var/www/html
 
